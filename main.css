@@ -1,0 +1,143 @@
+body {
+  background-image: url(1.png);
+  background-size: 100%;
+}
+
+input {
+  border: None;
+  padding: 10px;
+  margin-left: 20px;
+  text-align: center;
+}
+
+p {
+  margin-top: 20px;
+  /* text-align: left; */
+}
+
+h5 {
+  padding-top: 30px;
+  margin-top: 20px;
+  /* text-align: left; */
+}
+
+
+
+.batan {
+  margin-top: 30px;
+}
+
+.divLayout {
+  background-color: white;
+  width: 51.5%;
+  /* height: 100%; */
+  border-radius: 10px;
+  margin: auto;
+  text-align: center;
+  padding: 40px;
+  box-shadow: 0px 0px 24px gray;
+}
+
+.rowLayout {
+  width: 80%;
+  margin: auto;
+  margin-top: 7%;
+}
+
+.homeButtons {
+  width: 10%;
+  margin: auto;
+  box-shadow: 0px 0px 24px gray;
+}
+
+.consoleDiv {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.profileDiv {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+
+
+.imgButton {
+
+  background-size: 100%;
+  border: none;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border-radius: 2px;
+}
+
+.logo {
+  width: 75px;
+  height: 75px;
+}
+
+.AV1{
+  background-image: url(a1.png);
+  background-size: 100%;
+  border: none;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border-radius: 2px;
+  width: 75px;
+  height: 75px;
+}
+
+.AV2{
+  background-image: url(a2.png);
+  background-size: 100%;
+  border: none;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border-radius: 2px;
+  width: 75px;
+  height: 75px;
+}
+
+.AV3{
+  background-image: url(a3.png);
+  background-size: 100%;
+  border: none;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border-radius: 2px;
+  width: 75px;
+  height: 75px;
+}
+
+.AV4{
+  background-image: url(a4.png);
+  background-size: 100%;
+  border: none;
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  border-radius: 2px;
+  width: 75px;
+  height: 75px;
+}
+
+.av1 {
+  background-image: url(a1.png);
+}
+
+.av2 {
+  background-image: url(a2.png);
+}
+
+.av3 {
+  background-image: url(a3.png);
+}
+
+.av4 {
+  background-image: url(a4.png);
+}
+
